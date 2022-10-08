@@ -3,4 +3,4 @@ pack:
 		rm gnome-edge-gap@necropolina.shell-extension.zip;\
 	fi
 
-	gnome-extensions pack --extra-source=Settings-40.ui
+	gnome-extensions pack --extra-source=prefs.xml
